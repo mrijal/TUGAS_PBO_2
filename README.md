@@ -1,6 +1,6 @@
 TUGAS PBO 2 tentang SPRING BOOT
 
-Nama : Muhammad Rijal
+Nama : Muhammad Rijal <br>
 NPM : 23552011138
 
 - Styling Menggunakan Bootstrap
